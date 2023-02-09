@@ -1,0 +1,16 @@
+.f_text {
+  margin-top: 290px;
+  color: rgb(57,57,56);
+  font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+  text-align: center;
+  font-size: 40px;
+}
+
+.smoll_text {
+font-style: italic;
+  margin-top: -40px;
+  color: rgb(57,57,56);
+  font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+  text-align: center;
+  font-size: 30px;
+}

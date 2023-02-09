@@ -1,0 +1,9 @@
+.layout {
+  display: inline-grid;
+  gap: 50px 100px;
+  
+  grid-template-columns: auto auto auto ;
+  
+  justify-content: space-evenly;
+  
+}
